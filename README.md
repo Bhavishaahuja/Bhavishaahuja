@@ -1,4 +1,4 @@
-![Banner](bhavishaahuja/linkedin-banner.png)
+![Banner](linkedin banner.png)
 # Hi, I'm Bhavisha 👋
  
 AI/ML Engineer | Data Science (CS) @ UIC '26 | Building AI-powered products

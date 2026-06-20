@@ -1,4 +1,4 @@
-![Banner](linkedin banner.png)
+(linkedin-banner.png)
 # Hi, I'm Bhavisha 👋
  
 AI/ML Engineer | Data Science (CS) @ UIC '26 | Building AI-powered products

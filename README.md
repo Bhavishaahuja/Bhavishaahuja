@@ -13,9 +13,9 @@ I build products that sit at the intersection of AI, data, and user experience. 
 AI-powered content planning for Instagram creators. Connects to Google Calendar, identifies open shooting days, and generates a personalized content plan with shoot, edit, and post deadlines.
  
 - Built a **RAG pipeline** using pgvector embeddings to improve suggestions based on approval history across sessions
-- Implemented **prompt versioning** to track every Claude prompt change, plus a 6-check automated eval suite
+- Implemented **prompt versioning** to track every Claude prompt change, plus a 26-check automated eval suite
 - Built **Google Calendar OAuth** with silent token refresh, handling malformed AI responses and edge cases in production
-- Validated through user research with 7 Instagram creators before building
+- Validated through user research with 17 Instagram creators before building
 - **Stack:** Next.js · TypeScript · Supabase · pgvector · Claude API · OpenAI Embeddings · Google Calendar API · Vercel
 ---
  

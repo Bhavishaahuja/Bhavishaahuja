@@ -23,6 +23,8 @@ AI-powered content planning for Instagram creators. Connects to Google Calendar,
 * Built Google Calendar OAuth with silent token refresh, handling malformed AI responses and edge cases in production
 * Validated through user research with 17 Instagram creators before building
 * Stack: Next.js · TypeScript · Supabase · pgvector · Claude API · OpenAI Embeddings · Google Calendar API · Vercel
+
+  
 **[CartLens](https://github.com/Bhavishaahuja/CartLens)**
 End-to-end e-commerce customer analytics on the Olist dataset (~100K orders across 9 relational tables), from raw CSVs to a cloud warehouse to Power BI and Tableau dashboards, framed as business findings.
  

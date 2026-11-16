@@ -6,7 +6,7 @@
 
 My recent work is about one question: **what has to be true before an AI agent is allowed to spend money, press a button, or report a result?** I've built agents that pay with PayPal, press physical buttons with servo fingers, and buy parts for factories. Each one follows the same rule: **the model proposes, the code decides.** The LLM handles language and judgment. Fixed, tested code owns the prices, the policy, and anything that touches money or hardware. A human is pulled in only when something actually looks off.
 
-I'm looking for full-time roles in **AI/ML Engineering** or **AI Product Management**, and I'm available now.
+I'm looking for full-time roles in **AI Engineering** or as a **Forward Deployed Engineer (FDE)**, and I'm available now.
 
 🌐 [bhavishaahuja.pro](https://www.bhavishaahuja.pro/) · 💼 [LinkedIn](https://www.linkedin.com/in/bhavisha-ahuja180503/) · ✉️ [Email](mailto:bhavishaahuja800@gmail.com)
 
@@ -106,4 +106,4 @@ A multi-agent system that reverse-engineers ancient megaprojects (Giza, Uruk, Mo
 
 ---
 
-📫 Open to AI/ML Engineering and AI Product roles. The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/bhavisha-ahuja180503/) or [email](mailto:bhavishaahuja800@gmail.com).
+📫 Open to AI Engineering and Forward Deployed Engineer roles. The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/bhavisha-ahuja180503/) or [email](mailto:bhavishaahuja800@gmail.com).

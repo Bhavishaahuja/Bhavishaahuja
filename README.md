@@ -14,7 +14,7 @@ I'm looking for full-time roles in **AI Engineering** or as a **Forward Deployed
 
 ## 🚀 Featured Projects
 
-### [Checkout Anything](https://github.com/Bhavishaahuja/CheckoutAnything) · PayPal AI Hackathon · [Live demo](https://checkout-anything.onrender.com)
+### [Checkout Anything](https://github.com/Bhavishaahuja/CheckoutAnything) · PayPal AI Hackathon · [Demo video](https://youtu.be/AW2HLy2H4ZE) · [Live app](https://checkout-anything.onrender.com)
 Opens any online store to AI shopping agents, and makes sure every agent order is one the human actually meant. Three parts:
 
 - **Connect:** paste a store URL and Claude writes a declarative `store_spec`. Fixed Python then verifies every item twice, once against the page text and once by creating a real PayPal sandbox order and reading it back. Claude repairs any mismatch, with 3 tries at most. Claude never writes code and never calls PayPal
@@ -25,7 +25,7 @@ Opens any online store to AI shopping agents, and makes sure every agent order i
 
 **Stack:** Python · FastAPI · Claude API · PayPal Orders v2, Vault & Disputes APIs · PostgreSQL · React · AG Grid · Render
 
-### [Physical MCP](https://github.com/PamAntonio/physical-mcp) · Meta Global AI Developer Hackathon · [physicalmcp.dev](https://physicalmcp.dev)
+### [Physical MCP](https://github.com/PamAntonio/physical-mcp) · Meta Global AI Developer Hackathon · [Demo video](https://youtu.be/EhVsqmYAu1U) · [physicalmcp.dev](https://physicalmcp.dev)
 An API for machines that don't have one. A webcam watches a device's panel, servo fingers press its buttons, and an AI runs it through MCP tools, with a human approval gate in front of anything risky. Built with [@PamAntonio](https://github.com/PamAntonio), who built the hardware rig and firmware.
 
 - **My part:** the MCP server, the backend step runner, vision, the risk scorer, the planner hookup and plan check, the web app, calibration, the live camera, and the dashboard metrics
